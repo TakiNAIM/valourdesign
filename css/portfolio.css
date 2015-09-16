@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000E5;
-	background-color: #623E9B;
+	color: #000016;
+	background-color: #E45FBC;
 }
 
 .html
@@ -14,12 +14,12 @@
 	z-index: 1;
 	width: 960px;
 	min-height: 881.8730897427678px;
-	-pie-box-shadow: 0px 0px 250px 63px #FAC8C8;
-	box-shadow: 0px 0px 250px #FAC8C8,0px 0px 250px #FAC8C8;
+	-pie-box-shadow: 0px 0px 250px 63px #C8FAC8;
+	box-shadow: 0px 0px 250px #C8FAC8,0px 0px 250px #C8FAC8;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
-	background-color: #FAC8C8;
+	background-color: #C8FAC8;
 	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
@@ -247,7 +247,6 @@
 {
 	margin-left: -29px;
 	margin-right: -29px;
-	margin-bottom: -1px;
 }
 
 #u5660

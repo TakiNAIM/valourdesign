@@ -97,12 +97,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://valourdesign.com/images/anyboiidesktop.jpg</loc>
-    <lastmod>2015-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://valourdesign.com/images/anyboii_logo.gif</loc>
     <lastmod>2015-09-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -157,8 +151,56 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://valourdesign.com/images/valour-logo56x62.png</loc>
+    <lastmod>2015-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://valourdesign.com/images/any-boii.jpg</loc>
+    <lastmod>2015-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://valourdesign.com/images/any-boiis.jpg</loc>
+    <lastmod>2015-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://valourdesign.com/images/girl%20with%20phone320x412.jpg</loc>
+    <lastmod>2015-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://valourdesign.com/images/taurus_1.jpg</loc>
+    <lastmod>2015-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://valourdesign.com/images/honestly-(all-i-want)-audition-flyer.gif</loc>
+    <lastmod>2015-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://valourdesign.com/images/valourbanner318x131.png</loc>
+    <lastmod>2015-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://valourdesign.com/images/anyboiidesktop348x218.jpg</loc>
+    <lastmod>2015-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://valourdesign.com/index.html</loc>
-    <lastmod>2015-09-14</lastmod>
+    <lastmod>2015-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://valourdesign.com/phone/index.html"/>
@@ -166,7 +208,7 @@
   </url>
   <url>
     <loc>http://valourdesign.com/portfolio.html</loc>
-    <lastmod>2015-09-14</lastmod>
+    <lastmod>2015-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://valourdesign.com/phone/portfolio.html"/>
@@ -174,7 +216,7 @@
   </url>
   <url>
     <loc>http://valourdesign.com/my-story.html</loc>
-    <lastmod>2015-09-14</lastmod>
+    <lastmod>2015-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://valourdesign.com/phone/my-story.html"/>

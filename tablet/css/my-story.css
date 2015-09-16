@@ -1,7 +1,7 @@
 .version.my_story /* version checker */
 {
-	color: #0000F5;
-	background-color: #477906;
+	color: #00001E;
+	background-color: #07E604;
 }
 
 @-ms-viewport
@@ -54,7 +54,7 @@
 	margin-right: -10000px;
 }
 
-#u2423-4
+#u2423-6
 {
 	z-index: 118;
 	width: 364px;

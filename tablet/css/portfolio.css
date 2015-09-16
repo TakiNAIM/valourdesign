@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000017;
-	background-color: #0E3617;
+	color: #0000E0;
+	background-color: #5579D3;
 }
 
 @-ms-viewport
@@ -67,7 +67,7 @@
 	margin-right: -10000px;
 }
 
-#u2423-4
+#u2423-6
 {
 	z-index: 131;
 	width: 364px;

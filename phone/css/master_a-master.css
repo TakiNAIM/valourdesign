@@ -1,13 +1,13 @@
-#u1596
+#u6046-6
 {
-	background-color: #F4F4F4;
+	background-color: transparent;
+	line-height: 14px;
 	position: relative;
 }
 
-#u1565-4
+#u1596
 {
-	background-color: transparent;
-	line-height: 26px;
+	background-color: #F4F4F4;
 	position: relative;
 }
 
@@ -19,7 +19,7 @@
 	position: relative;
 }
 
-#u1581,#u1582
+#u6040,#u1581,#u1582
 {
 	background-color: transparent;
 	position: relative;
@@ -153,10 +153,12 @@
 	cursor: pointer;
 }
 
-#u1595-4
+#u1565-4
 {
 	background-color: transparent;
-	line-height: 14px;
+	color: #646464;
+	line-height: 13px;
+	font-size: 11px;
 	position: relative;
 }
 
