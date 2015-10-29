@@ -1,7 +1,7 @@
 .version.my_story /* version checker */
 {
-	color: #00001E;
-	background-color: #07E604;
+	color: #0000F3;
+	background-color: #C8C16E;
 }
 
 @-ms-viewport
@@ -54,7 +54,7 @@
 	margin-right: -10000px;
 }
 
-#u2423-6
+#u2423-4
 {
 	z-index: 118;
 	width: 364px;
@@ -355,9 +355,9 @@
 	min-height: 38px;
 	background-color: transparent;
 	color: #4C4C4C;
+	line-height: 24px;
 	text-align: right;
 	font-size: 17px;
-	line-height: 24px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 500;
 	margin-left: 412px;

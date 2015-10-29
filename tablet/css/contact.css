@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000015;
-	background-color: #36EBB6;
+	color: #000007;
+	background-color: #C71FB4;
 }
 
 @-ms-viewport
@@ -59,7 +59,7 @@
 	margin-right: -10000px;
 }
 
-#u2423-6
+#u2423-4
 {
 	z-index: 118;
 	width: 364px;
@@ -393,9 +393,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #494949;
+	color: #A5A5A5;
 	line-height: 12px;
 	letter-spacing: 1px;
-	color: #A5A5A5;
 	font-size: 12px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -463,9 +463,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #404040;
+	color: #A5A5A5;
 	line-height: 12px;
 	letter-spacing: 1px;
-	color: #A5A5A5;
 	font-size: 12px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -517,10 +517,10 @@
 #widgetu4124.fld-err-st #u4125-4 *,#widgetu4120.fld-err-st #u4121-4 *
 {
 	color: #FF0000;
-	padding-top: 18px;
-	padding-left: 33px;
 	font-size: 12px;
 	letter-spacing: 1px;
+	padding-left: 33px;
+	padding-top: 18px;
 	line-height: 1;
 	font-style: italic;
 }
@@ -570,8 +570,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -712,9 +712,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #2E2E2E;
+	color: #E2E2E2;
 	line-height: 12px;
 	letter-spacing: 1px;
-	color: #E2E2E2;
 	font-size: 12px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;

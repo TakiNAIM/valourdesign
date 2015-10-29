@@ -1,3 +1,12 @@
+#u6130
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #3E3E3E;
+	background-color: #3E3E3E;
+	position: fixed;
+}
+
 #top
 {
 	position: relative;
@@ -22,22 +31,6 @@
 	filter: alpha(opacity=0);
 }
 
-#u4619
-{
-	background-color: #7F7F7F;
-	opacity: 0.4;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
-	filter: alpha(opacity=40);
-	position: fixed;
-}
-
-.js #u4619.ose_pre_init
-{
-	opacity: 0.4;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
-	filter: alpha(opacity=40);
-}
-
 #u175-4
 {
 	background-color: transparent;
@@ -60,7 +53,7 @@
 	position: fixed;
 }
 
-#u4518,#u206,#u209
+#u6074,#u206,#u209
 {
 	background-color: transparent;
 	position: relative;
@@ -86,7 +79,7 @@
 
 #u209:hover #u210-4 p
 {
-	color: #C69C6D;
+	color: #FFFFFF;
 	visibility: inherit;
 }
 
@@ -116,7 +109,7 @@
 
 #u209.MuseMenuActive #u210-4 p,#u228:hover #u231-4 p
 {
-	color: #C69C6D;
+	color: #FFFFFF;
 	visibility: inherit;
 }
 
@@ -146,7 +139,7 @@
 
 #u228.MuseMenuActive #u231-4 p,#u243:hover #u246-4 p
 {
-	color: #C69C6D;
+	color: #FFFFFF;
 	visibility: inherit;
 }
 
@@ -183,13 +176,13 @@
 
 #u243.MuseMenuActive #u246-4 p,#u254:hover #u256-4 p
 {
-	color: #C69C6D;
+	color: #FFFFFF;
 	visibility: inherit;
 }
 
 #u254.MuseMenuActive #u256-4 p
 {
-	color: #C69C6D;
+	color: #FFFFFF;
 	visibility: inherit;
 }
 
@@ -201,9 +194,9 @@
 #u4625
 {
 	background-color: transparent;
-	opacity: 0.2;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
-	filter: alpha(opacity=20);
+	opacity: 0.4;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+	filter: alpha(opacity=40);
 	position: fixed;
 }
 
@@ -216,38 +209,109 @@
 
 #u3665
 {
-	vertical-align: top;
+	background-color: #7F7F7F;
 	position: relative;
-	background: url("../images/u3665.png") no-repeat 0px 0px;
+}
+
+#u3665::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	box-shadow: inset 0px 0px 250px #3E3E3E, inset 0px 0px 250px #3E3E3E;
 }
 
 #u3665:hover
 {
-	background: url("../images/u3665-r.png") no-repeat 0px 0px;
+	background-color: #2EB44C;
+}
+
+#u3665:hover::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	box-shadow: inset 0px 0px 250px #C69C6D, inset 0px 0px 250px #C69C6D;
+}
+
+.Tint
+{
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+.Tint::before
+{
+	box-shadow: none;
 }
 
 #u3667
 {
-	vertical-align: top;
+	background-color: #7F7F7F;
 	position: relative;
-	background: url("../images/u3667.png") no-repeat 0px 0px;
 }
 
-#u3667:hover
+#u3667::before
 {
-	background: url("../images/u3667-r.png") no-repeat 0px 0px;
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	box-shadow: inset 0px 0px 250px #3E3E3E, inset 0px 0px 250px #3E3E3E;
+}
+
+#u3667:hover::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	box-shadow: inset 0px 0px 250px #C69C6D, inset 0px 0px 250px #C69C6D;
 }
 
 #u3669
 {
-	vertical-align: top;
+	background-color: #7F7F7F;
 	position: relative;
-	background: url("../images/u3669.png") no-repeat 0px 0px;
 }
 
-#u3669:hover
+#u3669::before
 {
-	background: url("../images/u3669-r.png") no-repeat 0px 0px;
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	box-shadow: inset 0px 0px 250px #3E3E3E, inset 0px 0px 250px #3E3E3E;
+}
+
+#u3669:hover::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	box-shadow: inset 0px 0px 250px #C69C6D, inset 0px 0px 250px #C69C6D;
 }
 
 #u530-4
@@ -255,6 +319,16 @@
 	background-color: transparent;
 	line-height: 14px;
 	font-size: 12px;
+	position: relative;
+}
+
+#u6134-4
+{
+	background-color: transparent;
+	line-height: 10px;
+	font-size: 8px;
+	font-family: fira-sans, sans-serif;
+	font-weight: 200;
 	position: relative;
 }
 
