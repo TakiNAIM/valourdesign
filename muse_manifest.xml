@@ -1,20 +1,20 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://valourdesign.azurewebsites.net" resolutions="1x" timestamp="1446147337794">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://valourdesign.azurewebsites.net" resolutions="1x" timestamp="1446148257759">
   <folder name="assets">
     <file name="na-will-final.ai" crc="3909932531" seo="true" mt="1445811104000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4198781133"/>
-    <file name="master_a-master.css" crc="139883647" ref="index:contact:projects:our-story"/>
-    <file name="index.css" crc="3997874162" ref="index"/>
-    <file name="contact.css" crc="288115007" ref="contact"/>
-    <file name="projects.css" crc="3804323557" ref="projects"/>
-    <file name="our-story.css" crc="3900835652" ref="our-story"/>
+    <file name="master_a-master.css" crc="346143139" ref="index:contact:projects:our-story"/>
+    <file name="index.css" crc="390509024" ref="index"/>
+    <file name="contact.css" crc="4023073401" ref="contact"/>
+    <file name="projects.css" crc="318909569" ref="projects"/>
+    <file name="our-story.css" crc="34694108" ref="our-story"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:contact:projects:our-story"/>
     <file name="museutils.js" crc="275725342" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:contact:projects:our-story"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:contact:projects:our-story"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:tablet>index:tablet>my-story:phone>my-story"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="tablet>index:tablet>my-story"/>
     <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:contact:projects:our-story"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:contact:projects:our-story"/>
     <file name="webpro.js" crc="3883484123" ref="phone>portfolio:phone>contact:tablet>index:tablet>portfolio:tablet>contact:contact:projects:our-story"/>
@@ -33,9 +33,9 @@
     <file name="form-u1114.php" crc="3843024202" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="pen_01.jpg" crc="427298751" ref="tablet>index:phone>index:our-story"/>
-    <file name="pen_04.jpg" crc="298723064" ref="phone>index:tablet>index"/>
-    <file name="pen_05.jpg" crc="3913382269" ref="phone>index:tablet>index"/>
+    <file name="pen_01.jpg" crc="427298751" ref="tablet>index:our-story"/>
+    <file name="pen_04.jpg" crc="298723064" ref="tablet>index"/>
+    <file name="pen_05.jpg" crc="3913382269" ref="tablet>index"/>
     <file name="u3693.png" crc="61380839" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
     <file name="u3693-r.png" crc="4012575802" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
     <file name="u3697.png" crc="430385288" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
@@ -89,7 +89,7 @@
     <file name="u4117-17-m.png" crc="3597625" ref="tablet>contact"/>
     <file name="u4117-17-fs.png" crc="218971066" ref="tablet>contact"/>
     <file name="valour-logo.png" crc="95545288" seo="true" ref="index:contact:projects:our-story"/>
-    <file name="valourbanner211x88.png" crc="334501992" seo="true" ref="index"/>
+    <file name="valourbanner211x88.png" crc="334501992" seo="true" ref="index:contact"/>
     <file name="valour_icon-logo.gif" crc="3942313873" seo="true" ref="index:contact:projects:our-story"/>
     <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="contact:projects"/>
     <file name="growordie_tanner.gif" crc="3810575332" seo="true" ref="projects"/>
@@ -116,7 +116,6 @@
     <file name="any-boii.jpg" crc="3793231105" seo="true" ref="projects"/>
     <file name="any-boiis.jpg" crc="3889095855" seo="true" ref="projects"/>
     <file name="taurus_1.jpg" crc="174505012" seo="true" ref="projects"/>
-    <file name="pen_06-u1839-fr.jpg" crc="3955397398" ref="phone>my-story"/>
     <file name="social_06_linkedin.png" crc="198708598" seo="true" ref="index:projects:our-story:contact"/>
     <file name="social_00_facebook.png" crc="307145484" seo="true" ref="index:projects:our-story:contact"/>
     <file name="social_01_twitter.png" crc="3932855704" seo="true" ref="index:projects:our-story:contact"/>
@@ -141,19 +140,19 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4115039679" ref="phone>my-story:phone>contact:phone>index:phone>portfolio"/>
-      <file name="my-story.css" crc="313661686" ref="phone>my-story"/>
-      <file name="contact.css" crc="288286068" ref="phone>contact"/>
-      <file name="index.css" crc="296171958" ref="phone>index"/>
-      <file name="portfolio.css" crc="271751868" ref="phone>portfolio"/>
+      <file name="master_a-master.css" crc="151370812" ref="phone>my-story:phone>contact:phone>index:phone>portfolio"/>
+      <file name="my-story.css" crc="460490363" ref="phone>my-story"/>
+      <file name="contact.css" crc="3986664409" ref="phone>contact"/>
+      <file name="index.css" crc="4087804573" ref="phone>index"/>
+      <file name="portfolio.css" crc="408598787" ref="phone>portfolio"/>
     </folder>
-    <file name="index.html" crc="3768748288" seo="true" mt="1442279940061" redirect="true"/>
-    <file name="portfolio.html" crc="4030479853" seo="true" mt="1445007166714" redirect="true"/>
-    <file name="my-story.html" crc="3792587536" seo="true" mt="1445007705007" redirect="true"/>
-    <file name="contact.html" crc="465082310" seo="true" mt="1442279940061" redirect="true"/>
+    <file name="index.html" crc="494200183" seo="true" mt="1446147744218" redirect="true"/>
+    <file name="portfolio.html" crc="4141130016" seo="true" mt="1446147711851" redirect="true"/>
+    <file name="my-story.html" crc="466465291" seo="true" mt="1446147770730" redirect="true"/>
+    <file name="contact.html" crc="4065812093" seo="true" mt="1446147798085" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3863093533" seo="true" mt="1446147311063" redirect="true"/>
-  <file name="contact.html" crc="127952163" seo="true" mt="1446147269988" redirect="true"/>
-  <file name="projects.html" crc="4217184697" seo="true" mt="1446147301844" redirect="true"/>
-  <file name="our-story.html" crc="508937634" seo="true" mt="1446147292963" redirect="true"/>
+  <file name="index.html" crc="4209929357" seo="true" mt="1446147879845" redirect="true"/>
+  <file name="contact.html" crc="4247380188" seo="true" mt="1446148211216" redirect="true"/>
+  <file name="projects.html" crc="423922030" seo="true" mt="1446147869088" redirect="true"/>
+  <file name="our-story.html" crc="4145468816" seo="true" mt="1446147857272" redirect="true"/>
 </manifest>

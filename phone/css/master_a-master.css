@@ -1,13 +1,11 @@
-#u1596
+#u6135
 {
-	background-color: #F4F4F4;
-	position: relative;
+	background-color: #3E3E3E;
 }
 
-#u1565-4
+#u1596
 {
-	background-color: transparent;
-	line-height: 26px;
+	background-color: #3E3E3E;
 	position: relative;
 }
 
@@ -151,13 +149,6 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
-}
-
-#u1595-4
-{
-	background-color: transparent;
-	line-height: 14px;
-	position: relative;
 }
 
 #u3693

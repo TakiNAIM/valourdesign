@@ -1,7 +1,7 @@
 .version.projects /* version checker */
 {
-	color: #0000E2;
-	background-color: #C15EE5;
+	color: #000013;
+	background-color: #022C81;
 }
 
 .html
@@ -17,7 +17,7 @@
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
-	background-color: transparent;
+	background-color: #3E3E3E;
 	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;

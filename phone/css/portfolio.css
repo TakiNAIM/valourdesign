@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000010;
-	background-color: #329ABC;
+	color: #000018;
+	background-color: #5AB903;
 }
 
 @-ms-viewport
@@ -37,44 +37,35 @@
 #page
 {
 	z-index: 1;
-	width: 350px;
-	min-height: 1208px;
+	width: 380px;
+	min-height: 1228px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding: 20px 10px 8px 20px;
+	padding-bottom: 8px;
 }
 
-#pu1596
+#u6135
 {
-	width: 0.01px;
+	z-index: 15;
+	min-height: 415px;
+	padding: 75px 10px 80px 20px;
 }
 
 #u1596
 {
-	z-index: 82;
-	width: 340px;
-	height: 69px;
-	margin-right: -10000px;
-	margin-top: 55px;
-}
-
-#u1565-4
-{
 	z-index: 83;
-	width: 178px;
-	min-height: 27px;
-	margin-right: -10000px;
-	left: 10px;
+	width: 340px;
+	padding-bottom: 22px;
 }
 
 #menuu1566
 {
-	z-index: 87;
+	z-index: 84;
 	width: 320px;
 	margin-right: -10000px;
-	margin-top: 76px;
+	margin-top: 21px;
 	left: 10px;
 }
 
@@ -261,19 +252,9 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1595-4
-{
-	z-index: 112;
-	width: 132px;
-	min-height: 13px;
-	margin-right: -10000px;
-	margin-top: 7px;
-	left: 198px;
-}
-
 #u1672-6
 {
-	z-index: 15;
+	z-index: 16;
 	width: 340px;
 	min-height: 139px;
 	background-color: transparent;
@@ -284,7 +265,7 @@
 
 #u1673-4
 {
-	z-index: 21;
+	z-index: 22;
 	width: 269px;
 	min-height: 90px;
 	background-color: transparent;
@@ -293,12 +274,19 @@
 	position: relative;
 }
 
+#u6135-bw
+{
+	z-index: 15;
+	min-height: 415px;
+}
+
 #slideshowu1690
 {
-	z-index: 25;
+	z-index: 26;
 	width: 0.01px;
 	height: 468px;
-	margin-top: 85px;
+	margin-left: 20px;
+	margin-top: 5px;
 	position: relative;
 }
 
@@ -314,12 +302,12 @@
 
 #u1691popup
 {
-	z-index: 26;
+	z-index: 27;
 }
 
 #u1692
 {
-	z-index: 27;
+	z-index: 28;
 	width: 320px;
 	height: 360px;
 	border-style: none;
@@ -331,7 +319,7 @@
 
 #u2135
 {
-	z-index: 29;
+	z-index: 30;
 	width: 320px;
 	height: 360px;
 	border-style: none;
@@ -343,7 +331,7 @@
 
 #u2144
 {
-	z-index: 31;
+	z-index: 32;
 	width: 320px;
 	height: 360px;
 	border-style: none;
@@ -355,7 +343,7 @@
 
 #u2153
 {
-	z-index: 33;
+	z-index: 34;
 	width: 320px;
 	height: 360px;
 	border-style: none;
@@ -367,7 +355,7 @@
 
 #u2162
 {
-	z-index: 35;
+	z-index: 36;
 	width: 320px;
 	height: 360px;
 	border-style: none;
@@ -379,7 +367,7 @@
 
 #u2171
 {
-	z-index: 37;
+	z-index: 38;
 	width: 320px;
 	height: 360px;
 	border-style: none;
@@ -391,7 +379,7 @@
 
 #u2180
 {
-	z-index: 39;
+	z-index: 40;
 	width: 320px;
 	height: 360px;
 	border-style: none;
@@ -403,7 +391,7 @@
 
 #u2189
 {
-	z-index: 41;
+	z-index: 42;
 	width: 320px;
 	height: 360px;
 	border-style: none;
@@ -423,12 +411,12 @@
 
 #u1699popup
 {
-	z-index: 43;
+	z-index: 44;
 }
 
 #u1700-4
 {
-	z-index: 44;
+	z-index: 45;
 	width: 320px;
 	min-height: 20px;
 	border-style: none;
@@ -445,7 +433,7 @@
 
 #u2141-4
 {
-	z-index: 48;
+	z-index: 49;
 	width: 320px;
 	min-height: 20px;
 	border-style: none;
@@ -462,7 +450,7 @@
 
 #u2150-4
 {
-	z-index: 52;
+	z-index: 53;
 	width: 320px;
 	min-height: 20px;
 	border-style: none;
@@ -479,7 +467,7 @@
 
 #u2159-4
 {
-	z-index: 56;
+	z-index: 57;
 	width: 320px;
 	min-height: 20px;
 	border-style: none;
@@ -496,7 +484,7 @@
 
 #u2168-4
 {
-	z-index: 60;
+	z-index: 61;
 	width: 320px;
 	min-height: 20px;
 	border-style: none;
@@ -513,7 +501,7 @@
 
 #u2177-4
 {
-	z-index: 64;
+	z-index: 65;
 	width: 320px;
 	min-height: 20px;
 	border-style: none;
@@ -530,7 +518,7 @@
 
 #u2186-4
 {
-	z-index: 68;
+	z-index: 69;
 	width: 320px;
 	min-height: 20px;
 	border-style: none;
@@ -547,7 +535,7 @@
 
 #u2195-4
 {
-	z-index: 72;
+	z-index: 73;
 	width: 320px;
 	min-height: 20px;
 	border-style: none;
@@ -579,7 +567,7 @@
 
 #u1698-3popup
 {
-	z-index: 76;
+	z-index: 77;
 }
 
 #u1703-3
@@ -601,7 +589,7 @@
 
 #u1703-3popup
 {
-	z-index: 79;
+	z-index: 80;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -617,7 +605,7 @@
 #ppu3693
 {
 	width: 0.01px;
-	margin-left: 107px;
+	margin-left: 127px;
 	margin-top: 90px;
 }
 
@@ -652,7 +640,7 @@
 	z-index: 11;
 	width: 317px;
 	min-height: 21px;
-	margin-left: 13px;
+	margin-left: 33px;
 	margin-top: 30px;
 }
 
