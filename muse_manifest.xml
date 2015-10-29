@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://valourdesign.azurewebsites.net" resolutions="1x" timestamp="1446146743804">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://valourdesign.azurewebsites.net" resolutions="1x" timestamp="1446147337794">
   <folder name="assets">
     <file name="na-will-final.ai" crc="3909932531" seo="true" mt="1445811104000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4198781133"/>
     <file name="master_a-master.css" crc="139883647" ref="index:contact:projects:our-story"/>
-    <file name="index.css" crc="499173244" ref="index"/>
-    <file name="contact.css" crc="4220404324" ref="contact"/>
-    <file name="projects.css" crc="4158045473" ref="projects"/>
-    <file name="our-story.css" crc="501520122" ref="our-story"/>
+    <file name="index.css" crc="3997874162" ref="index"/>
+    <file name="contact.css" crc="288115007" ref="contact"/>
+    <file name="projects.css" crc="3804323557" ref="projects"/>
+    <file name="our-story.css" crc="3900835652" ref="our-story"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:contact:projects:our-story"/>
@@ -26,14 +26,14 @@
     <file name="form_process.php" crc="401030677" ref="phone>contact:tablet>contact:contact"/>
     <file name="form-u1843.php" crc="383864181" ref="phone>contact"/>
     <file name="museredirect.js" crc="3899419633" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:contact"/>
-    <file name="pie.js" crc="3827607177" ref="tablet>index:tablet>portfolio:index:contact:projects:our-story"/>
+    <file name="pie.js" crc="3827607177" ref="tablet>index:tablet>portfolio"/>
     <file name="form-u4111.php" crc="4267596478" ref="tablet>contact"/>
     <file name="jquery.scrolleffects.js" crc="206645848" ref="index:contact:projects:our-story"/>
     <file name="musewpdisclosure.js" crc="404074387" ref="our-story"/>
     <file name="form-u1114.php" crc="3843024202" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="pen_01.jpg" crc="4160589120" ref="tablet>index:phone>index"/>
+    <file name="pen_01.jpg" crc="427298751" ref="tablet>index:phone>index:our-story"/>
     <file name="pen_04.jpg" crc="298723064" ref="phone>index:tablet>index"/>
     <file name="pen_05.jpg" crc="3913382269" ref="phone>index:tablet>index"/>
     <file name="u3693.png" crc="61380839" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
@@ -125,7 +125,6 @@
     <file name="girl with phone.jpg" crc="325863723" seo="true" ref="projects"/>
     <file name="img_2226.jpg" crc="208152724" seo="true" ref="projects"/>
     <file name="img_2341.jpg" crc="4090232222" seo="true" ref="projects"/>
-    <file name="pen_012.jpg" crc="427298751" ref="our-story"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -153,8 +152,8 @@
     <file name="my-story.html" crc="3792587536" seo="true" mt="1445007705007" redirect="true"/>
     <file name="contact.html" crc="465082310" seo="true" mt="1442279940061" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4521798" seo="true" mt="1446146445452" redirect="true"/>
-  <file name="contact.html" crc="412623230" seo="true" mt="1446140636541" redirect="true"/>
-  <file name="projects.html" crc="4059572704" seo="true" mt="1446140636541" redirect="true"/>
-  <file name="our-story.html" crc="4195677534" seo="true" mt="1446140636541" redirect="true"/>
+  <file name="index.html" crc="3863093533" seo="true" mt="1446147311063" redirect="true"/>
+  <file name="contact.html" crc="127952163" seo="true" mt="1446147269988" redirect="true"/>
+  <file name="projects.html" crc="4217184697" seo="true" mt="1446147301844" redirect="true"/>
+  <file name="our-story.html" crc="508937634" seo="true" mt="1446147292963" redirect="true"/>
 </manifest>
