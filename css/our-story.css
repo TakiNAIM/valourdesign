@@ -1,7 +1,7 @@
 .version.our_story /* version checker */
 {
-	color: #000002;
-	background-color: #1163DC;
+	color: #00001D;
+	background-color: #0DD6A3;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 2083.893542247187px;
+	min-height: 2083.9px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
@@ -34,15 +34,29 @@
 	z-index: 2;
 	width: 1400px;
 	height: 994px;
-	top: 0px;
+	top: -56px;
 	left: 50%;
-	margin-left: -680px;
+	margin-left: -692px;
+}
+
+#u4588
+{
+	z-index: 162;
+	width: 211px;
+	top: 62px;
+	left: -54px;
+}
+
+#top
+{
+	margin-left: 487px;
 }
 
 #pu6074
 {
 	width: 0.01px;
 	margin-left: -150px;
+	margin-top: 21px;
 }
 
 #u6074
@@ -52,17 +66,13 @@
 	margin-right: -10000px;
 }
 
-#ptop
+#pu922-6
 {
 	width: 0.01px;
 	padding-bottom: 0px;
 	margin-right: -10000px;
-	margin-left: 350px;
-}
-
-#top
-{
-	margin-left: 288px;
+	margin-top: 11px;
+	margin-left: 349px;
 }
 
 #u922-6
@@ -72,7 +82,6 @@
 	min-height: 130px;
 	background-color: transparent;
 	color: #FFFFFF;
-	margin-top: 32px;
 	position: relative;
 }
 
@@ -89,22 +98,27 @@
 	position: relative;
 }
 
-#pu4588
+#u6030
 {
-	width: 0.01px;
-	padding-left: 92px;
-	padding-right: 101px;
-	padding-bottom: 395px;
-	margin-left: -92px;
-	margin-top: -377px;
+	z-index: 127;
+	width: 741px;
+	background-color: transparent;
+	margin-left: 200px;
+	margin-top: 6px;
+	position: relative;
 }
 
-#u4588
+#pu175-4
 {
-	z-index: 162;
-	width: 211px;
-	top: 62px;
-	left: -54px;
+	width: 0.01px;
+	margin-left: -61px;
+	margin-top: -296px;
+}
+
+#pu175-4_position_content
+{
+	margin-top: -393px;
+	padding-bottom: 674px;
 }
 
 #u175-4
@@ -112,32 +126,8 @@
 	z-index: 129;
 	width: 161px;
 	min-height: 27px;
-	bottom: 279px;
-	left: 40px;
-}
-
-#u6030
-{
-	z-index: 127;
-	width: 741px;
-	background-color: transparent;
-	margin-left: 200px;
-	top: -12px;
-	margin-bottom: -12px;
-	position: relative;
-}
-
-#pu591-4
-{
-	width: 0.01px;
-	margin-left: -61px;
-	margin-top: -291px;
-}
-
-#pu591-4_position_content
-{
-	margin-top: -398px;
-	padding-bottom: 674px;
+	bottom: 254px;
+	left: 39px;
 }
 
 #u591-4
@@ -145,7 +135,7 @@
 	z-index: 158;
 	width: 161px;
 	min-height: 22px;
-	bottom: 254px;
+	bottom: 232px;
 	left: 39px;
 }
 
@@ -426,9 +416,9 @@
 	min-height: 38px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: right;
 	font-size: 17px;
+	line-height: 24px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 500;
 	position: relative;

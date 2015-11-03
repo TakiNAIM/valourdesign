@@ -7,21 +7,16 @@
 	position: fixed;
 }
 
-#top
-{
-	position: relative;
-}
-
 #u4588
 {
 	background-color: transparent;
 	opacity: 0.8;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	filter: alpha(opacity=80);
-	position: fixed;
 	-webkit-transform: matrix(0,-1,1,0,62,149);
 	-ms-transform: matrix(0,-1,1,0,62,149);
 	transform: matrix(0,-1,1,0,62,149);
+	position: fixed;
 }
 
 .js #u4588.ose_pre_init
@@ -29,6 +24,11 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+}
+
+#top
+{
+	position: relative;
 }
 
 #u175-4

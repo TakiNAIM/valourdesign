@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://valourdesign.azurewebsites.net" resolutions="1x" timestamp="1446148257759">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://valourdesign.azurewebsites.net" resolutions="1x" timestamp="1446590906710">
   <folder name="assets">
     <file name="na-will-final.ai" crc="3909932531" seo="true" mt="1445811104000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4198781133"/>
-    <file name="master_a-master.css" crc="346143139" ref="index:contact:projects:our-story"/>
-    <file name="index.css" crc="390509024" ref="index"/>
-    <file name="contact.css" crc="4023073401" ref="contact"/>
-    <file name="projects.css" crc="318909569" ref="projects"/>
-    <file name="our-story.css" crc="34694108" ref="our-story"/>
+    <file name="master_a-master.css" crc="47053045" ref="index:contact:projects:our-story"/>
+    <file name="index.css" crc="239342050" ref="index"/>
+    <file name="contact.css" crc="3775587411" ref="contact"/>
+    <file name="projects.css" crc="3999017308" ref="projects"/>
+    <file name="our-story.css" crc="487446179" ref="our-story"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:contact:projects:our-story"/>
@@ -89,7 +89,7 @@
     <file name="u4117-17-m.png" crc="3597625" ref="tablet>contact"/>
     <file name="u4117-17-fs.png" crc="218971066" ref="tablet>contact"/>
     <file name="valour-logo.png" crc="95545288" seo="true" ref="index:contact:projects:our-story"/>
-    <file name="valourbanner211x88.png" crc="334501992" seo="true" ref="index:contact"/>
+    <file name="valourbanner211x88.png" crc="334501992" seo="true" ref="index"/>
     <file name="valour_icon-logo.gif" crc="3942313873" seo="true" ref="index:contact:projects:our-story"/>
     <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="contact:projects"/>
     <file name="growordie_tanner.gif" crc="3810575332" seo="true" ref="projects"/>
@@ -151,8 +151,8 @@
     <file name="my-story.html" crc="466465291" seo="true" mt="1446147770730" redirect="true"/>
     <file name="contact.html" crc="4065812093" seo="true" mt="1446147798085" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4209929357" seo="true" mt="1446147879845" redirect="true"/>
-  <file name="contact.html" crc="4247380188" seo="true" mt="1446148211216" redirect="true"/>
-  <file name="projects.html" crc="423922030" seo="true" mt="1446147869088" redirect="true"/>
-  <file name="our-story.html" crc="4145468816" seo="true" mt="1446147857272" redirect="true"/>
+  <file name="index.html" crc="400289550" seo="true" mt="1446590662269" redirect="true"/>
+  <file name="contact.html" crc="3788737998" seo="true" mt="1446590662269" redirect="true"/>
+  <file name="projects.html" crc="3792892643" seo="true" mt="1446590662269" redirect="true"/>
+  <file name="our-story.html" crc="3919484619" seo="true" mt="1446590662269" redirect="true"/>
 </manifest>
